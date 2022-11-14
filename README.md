@@ -1,2 +1,2 @@
-# Frontend.github.io
+# Frontend
 Website Template
